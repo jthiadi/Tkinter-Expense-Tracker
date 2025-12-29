@@ -23,7 +23,7 @@ Built with **Tkinter (GUI)** and stores data locally in a `records.txt` file.
 
 ## 📂 Data Storage
 
-Your data is saved in:
+Data is saved in:
 
 ```
 records.txt
@@ -102,8 +102,6 @@ pip install matplotlib
 python main.py
 ```
 
-*(replace with your script filename if different)*
-
 ---
 
 ## 📊 Tools Inside the App
@@ -135,4 +133,3 @@ All data is stored in `records.txt`.
 
 ---
 
-🎉 Enjoy tracking your finances!
